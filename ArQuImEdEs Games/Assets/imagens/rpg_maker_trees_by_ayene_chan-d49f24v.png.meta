@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: dfc5600ee3b63e04299e4649a8a82fde
+timeCreated: 1431889046
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rpg_maker_trees_by_ayene_chan-d49f24v_0
+    21300002: rpg_maker_trees_by_ayene_chan-d49f24v_1
+    21300004: rpg_maker_trees_by_ayene_chan-d49f24v_2
+    21300006: rpg_maker_trees_by_ayene_chan-d49f24v_3
+    21300008: rpg_maker_trees_by_ayene_chan-d49f24v_4
+    21300010: rpg_maker_trees_by_ayene_chan-d49f24v_5
+    21300012: rpg_maker_trees_by_ayene_chan-d49f24v_6
+    21300014: rpg_maker_trees_by_ayene_chan-d49f24v_7
+    21300016: rpg_maker_trees_by_ayene_chan-d49f24v_8
+    21300018: rpg_maker_trees_by_ayene_chan-d49f24v_9
+    21300020: rpg_maker_trees_by_ayene_chan-d49f24v_10
+    21300022: rpg_maker_trees_by_ayene_chan-d49f24v_11
+    21300024: rpg_maker_trees_by_ayene_chan-d49f24v_12
+    21300026: rpg_maker_trees_by_ayene_chan-d49f24v_13
+    21300028: rpg_maker_trees_by_ayene_chan-d49f24v_14
+    21300030: rpg_maker_trees_by_ayene_chan-d49f24v_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 626
+        width: 118
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 440
+        width: 82
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 384
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 176
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 236
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 576
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 450
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 408
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 431
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 414
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 248
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 233
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 152
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rpg_maker_trees_by_ayene_chan-d49f24v_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 24
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

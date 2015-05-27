@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 0253b15fa75d23f4d98b327803f2bc13
+timeCreated: 1431888087
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_0
+    21300002: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_1
+    21300004: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_2
+    21300006: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_3
+    21300008: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_4
+    21300010: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_5
+    21300012: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_6
+    21300014: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_7
+    21300016: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_8
+    21300018: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_9
+    21300020: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_10
+    21300022: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_11
+    21300024: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_12
+    21300026: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_13
+    21300028: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_14
+    21300030: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_15
+    21300032: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_16
+    21300034: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_17
+    21300036: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_18
+    21300038: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_19
+    21300040: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_20
+    21300042: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_21
+    21300044: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_22
+    21300046: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_23
+    21300048: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_24
+    21300050: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_25
+    21300052: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_26
+    21300054: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_27
+    21300056: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_28
+    21300058: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_29
+    21300060: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_30
+    21300062: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_31
+    21300064: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_32
+    21300066: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_33
+    21300068: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_34
+    21300070: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_35
+    21300072: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_36
+    21300074: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_37
+    21300076: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_38
+    21300078: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_39
+    21300080: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_40
+    21300082: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_41
+    21300084: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_42
+    21300086: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_43
+    21300088: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_44
+    21300090: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_45
+    21300092: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_46
+    21300094: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_47
+    21300096: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_48
+    21300098: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_49
+    21300100: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_50
+    21300102: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_51
+    21300104: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_52
+    21300106: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_53
+    21300108: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_54
+    21300110: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_55
+    21300112: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_56
+    21300114: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_57
+    21300116: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_58
+    21300118: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_59
+    21300120: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_60
+    21300122: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_61
+    21300124: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_62
+    21300126: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_63
+    21300128: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_64
+    21300130: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_65
+    21300132: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_66
+    21300134: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_67
+    21300136: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_68
+    21300138: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_69
+    21300140: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_70
+    21300142: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_71
+    21300144: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_72
+    21300146: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_73
+    21300148: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_74
+    21300150: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_75
+    21300152: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_76
+    21300154: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_77
+    21300156: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_78
+    21300158: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_79
+    21300160: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_80
+    21300162: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_81
+    21300164: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_82
+    21300166: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_83
+    21300168: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_84
+    21300170: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_85
+    21300172: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_86
+    21300174: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_87
+    21300176: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_88
+    21300178: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_89
+    21300180: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_90
+    21300182: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_91
+    21300184: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_92
+    21300186: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_93
+    21300188: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_94
+    21300190: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: corpse_party_rpg_sprite__by_unpayedovertime-d5i212z_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
