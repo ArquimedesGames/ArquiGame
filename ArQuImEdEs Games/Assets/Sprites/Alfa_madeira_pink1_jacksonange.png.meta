@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 292ebf5732703434f99bf4bf2c4e6bdc
+timeCreated: 1433022825
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alfa_madeira_pink1_jacksonange_0
+    21300002: Alfa_madeira_pink1_jacksonange_1
+    21300004: Alfa_madeira_pink1_jacksonange_2
+    21300006: Alfa_madeira_pink1_jacksonange_3
+    21300008: Alfa_madeira_pink1_jacksonange_4
+    21300010: Alfa_madeira_pink1_jacksonange_5
+    21300012: Alfa_madeira_pink1_jacksonange_6
+    21300014: Alfa_madeira_pink1_jacksonange_7
+    21300016: Alfa_madeira_pink1_jacksonange_8
+    21300018: Alfa_madeira_pink1_jacksonange_9
+    21300020: Alfa_madeira_pink1_jacksonange_10
+    21300022: Alfa_madeira_pink1_jacksonange_11
+    21300024: Alfa_madeira_pink1_jacksonange_12
+    21300026: Alfa_madeira_pink1_jacksonange_13
+    21300028: Alfa_madeira_pink1_jacksonange_14
+    21300030: Alfa_madeira_pink1_jacksonange_15
+    21300032: Alfa_madeira_pink1_jacksonange_16
+    21300034: Alfa_madeira_pink1_jacksonange_17
+    21300036: Alfa_madeira_pink1_jacksonange_18
+    21300038: Alfa_madeira_pink1_jacksonange_19
+    21300040: Alfa_madeira_pink1_jacksonange_20
+    21300042: Alfa_madeira_pink1_jacksonange_21
+    21300044: Alfa_madeira_pink1_jacksonange_22
+    21300046: Alfa_madeira_pink1_jacksonange_23
+    21300048: Alfa_madeira_pink1_jacksonange_24
+    21300050: Alfa_madeira_pink1_jacksonange_25
+    21300052: Alfa_madeira_pink1_jacksonange_26
+    21300054: Alfa_madeira_pink1_jacksonange_27
+    21300056: Alfa_madeira_pink1_jacksonange_28
+    21300058: Alfa_madeira_pink1_jacksonange_29
+    21300060: Alfa_madeira_pink1_jacksonange_30
+    21300062: Alfa_madeira_pink1_jacksonange_31
+    21300064: Alfa_madeira_pink1_jacksonange_32
+    21300066: Alfa_madeira_pink1_jacksonange_33
+    21300068: Alfa_madeira_pink1_jacksonange_34
+    21300070: Alfa_madeira_pink1_jacksonange_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alfa_madeira_pink1_jacksonange_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 638
+        width: 153
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 638
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 638
+        width: 150
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 638
+        width: 123
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_4
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 638
+        width: 133
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_5
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 638
+        width: 114
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_6
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 638
+        width: 120
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 638
+        width: 124
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 638
+        width: 118
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_9
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 638
+        width: 117
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 434
+        width: 125
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 434
+        width: 119
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 434
+        width: 127
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 433
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 433
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 434
+        width: 114
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 433
+        width: 117
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_17
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 433
+        width: 121
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 433
+        width: 50
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_19
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 433
+        width: 105
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_20
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 227
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 104
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 227
+        width: 174
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 227
+        width: 124
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 227
+        width: 130
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_25
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 227
+        width: 118
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_26
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 227
+        width: 114
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_27
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 227
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_28
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 227
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 37
+        width: 143
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 38
+        width: 112
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_31
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 38
+        width: 142
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 38
+        width: 193
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_33
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 37
+        width: 145
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_34
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 37
+        width: 130
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alfa_madeira_pink1_jacksonange_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 37
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

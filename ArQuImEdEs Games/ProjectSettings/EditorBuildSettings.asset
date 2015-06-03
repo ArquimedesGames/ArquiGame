@@ -6,6 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Menu.unity
+  - enabled: 1
     path: Assets/Scenes/Fase1.unity
   - enabled: 1
     path: Assets/Scenes/Fase2.unity
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+  - enabled: 1
+    path: Assets/Scenes/Fase4.unity
+  - enabled: 1
+    path: Assets/Scenes/ponte.unity
+  - enabled: 1
+    path: Assets/Creditos.unity

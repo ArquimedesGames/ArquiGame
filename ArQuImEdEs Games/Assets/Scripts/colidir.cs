@@ -12,10 +12,12 @@ public class colidir : MonoBehaviour {
 	void Update () {
 	
 	}
-	void OnTriggerEnter2D(Collider2D colisor) {
-		if (colisor.gameObject.tag == "Player") {
+	void OnTriggerEnter2D(Collider2D colisor) 
+	{
+		if (colisor.gameObject.tag == "Player") 
+		{
 			Application.LoadLevel("Fase2");
-			Debug.Log("asdasd");
+			Debug.Log("carregando fase2");
 		}
 	}
 }
